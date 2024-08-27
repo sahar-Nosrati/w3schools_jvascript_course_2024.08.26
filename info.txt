@@ -1,0 +1,2 @@
+- js changes -> 
+  - HTML Content -> finds" an HTML element -> changes the element content -> inner HTML 
